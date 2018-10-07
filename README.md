@@ -1,2 +1,2 @@
-# double-checking-system
-double-checking-system for dynamodb
+# MongoDB sample
+Node.js MongodDB sample for farnell scraping
